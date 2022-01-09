@@ -1,0 +1,1 @@
+module "design-patterns/behavioral-patterns/strategy"
